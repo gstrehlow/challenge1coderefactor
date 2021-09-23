@@ -12,4 +12,5 @@ The Acceptance Criteria:
 - Includes a concise, descriptive title 
 ### Installation 
 [GitHub Link](https://github.com/gstrehlow/challenge1coderefactor)
+
 [Link to Deployed Application](https://gstrehlow.github.io/challenge1coderefactor/)
